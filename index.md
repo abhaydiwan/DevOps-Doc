@@ -31,7 +31,7 @@ In case you haven't installed Bundler, install it:
 ```
 gem install bundler
 ```
-
+**https://idratherbewriting.com/documentation-theme-jekyll/**
 You'll want [Bundler](http://bundler.io/) to make sure all the Ruby gems needed work well with your project. Bundler sorts out dependencies and installs missing gems or matches up gems with the right versions based on gem dependencies.
 
 ### 4. Option 1: Build the Theme (*without* the github-pages gem) {#option1}
